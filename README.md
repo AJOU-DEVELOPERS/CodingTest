@@ -4,10 +4,11 @@
 
 안녕하세요, **[jin-Pro](https://github.com/jin-Pro)** 입니다. <br/>
 하루 1문제씩 문제를 풀고, <br/>
-문제 풀이를 간단하게 작성해서 관리를 하기 위한 <br/>
+문제 풀이를 간단하게 기록 하기 위한 <br/>
 아주대학교 학생들을 위한 저장소입니다. <br/>
 백준 골드 문제들로 구성되어있습니다 <br/>
 잘못된 부분이 있거나 질문이 있다면 **[Issue](https://github.com/AJOU-DEVELOPERS/CodingTest/issues)** or **[Velog](https://velog.io/@jinpro)** 로 연락 부탁드립니다. <br/>
+문제를 추가하시기 위해서는 PR을 보내주세요! <br/>
 저장소를 찾아주셔서 감사합니다. 🙇🏻 <br/>
 <br/>
 
